@@ -29,7 +29,7 @@
     "@shopify/tokengate": "^0.0.0-snapshot-20230615225755",
     "clsx": "^1.2.1",
     "cross-env": "^7.0.3",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "graphql-tag": "^2.12.6",
     "isbot": "^3.6.5",
     "react": "^18.2.0",
